@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 63089b77f9034bc47b1b68824eec8087
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ActionDisplay: {instanceID: 0}
+  - ActionText: {instanceID: 0}
+  - FakePistol: {instanceID: 0}
+  - RealPistol: {instanceID: 0}
+  - GuideArrow: {instanceID: 0}
+  - ExtraCross: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
